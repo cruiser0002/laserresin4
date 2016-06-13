@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 'C:\\Users\\cruiser\\Desktop\\models\\3d printers\\laserresin4\\export
 \\steel\\carrier.stp',
-/* time_stamp */ '2016-06-11T23:11:36-07:00',
+/* time_stamp */ '2016-06-12T18:06:51-07:00',
 /* author */ ('cruiser'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v15.2',
@@ -1477,8 +1477,8 @@ DATA;
 #1453=EDGE_LOOP('',(#3263));
 #1454=EDGE_LOOP('',(#3264));
 #1455=EDGE_LOOP('',(#3265));
-#1456=CIRCLE('',#3534,5.);
-#1457=CIRCLE('',#3535,5.);
+#1456=CIRCLE('',#3534,5.15);
+#1457=CIRCLE('',#3535,5.15);
 #1458=CIRCLE('',#3541,1.5);
 #1459=CIRCLE('',#3542,1.5);
 #1460=CIRCLE('',#3543,1.5);
@@ -3287,7 +3287,7 @@ DATA;
 #3263=ORIENTED_EDGE('',*,*,#2191,.F.);
 #3264=ORIENTED_EDGE('',*,*,#1926,.F.);
 #3265=ORIENTED_EDGE('',*,*,#2190,.F.);
-#3266=CYLINDRICAL_SURFACE('',#3533,5.);
+#3266=CYLINDRICAL_SURFACE('',#3533,5.15);
 #3267=CYLINDRICAL_SURFACE('',#3563,2.5);
 #3268=CYLINDRICAL_SURFACE('',#3565,2.5);
 #3269=CYLINDRICAL_SURFACE('',#3567,4.);
@@ -4956,9 +4956,9 @@ DATA;
 #4851=DIRECTION('ref_axis',(-1.,0.,0.));
 #4852=CARTESIAN_POINT('',(0.,0.,0.));
 #4853=CARTESIAN_POINT('Origin',(-113.,1.5875,-50.));
-#4854=CARTESIAN_POINT('',(-108.,0.,-50.));
+#4854=CARTESIAN_POINT('',(-107.85,0.,-50.));
 #4855=CARTESIAN_POINT('Origin',(-113.,0.,-50.));
-#4856=CARTESIAN_POINT('',(-108.,1.5875,-50.));
+#4856=CARTESIAN_POINT('',(-107.85,1.5875,-50.));
 #4857=CARTESIAN_POINT('Origin',(-113.,1.5875,-50.));
 #4858=CARTESIAN_POINT('Origin',(-155.,1.5875,-9.99999999999995));
 #4859=CARTESIAN_POINT('',(-155.,1.5875,-9.99999999999995));
