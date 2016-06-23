@@ -1,4 +1,5 @@
 ~$laserresin4.xlsx
 *.lck
 **/OldVersions
+**/OldVersions/**
 **/~**
