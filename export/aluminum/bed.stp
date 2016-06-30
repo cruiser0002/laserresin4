@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 'C:\\Users\\cruiser\\Desktop\\models\\3d printers\\laserresin4\\export
 \\aluminum\\bed.stp',
-/* time_stamp */ '2016-06-12T17:59:04-07:00',
+/* time_stamp */ '2016-06-29T22:09:26-07:00',
 /* author */ ('cruiser'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v15.2',
@@ -12199,6 +12199,6 @@ SI_UNIT($,.RADIAN.)
 #11272=SURFACE_STYLE_FILL_AREA(#11273);
 #11273=FILL_AREA_STYLE($,(#11274));
 #11274=FILL_AREA_STYLE_COLOUR($,#11275);
-#11275=COLOUR_RGB('',0.698039215686274,0.,0.);
+#11275=COLOUR_RGB('',0.701960784313725,0.552941176470588,0.00392156862745098);
 ENDSEC;
 END-ISO-10303-21;
